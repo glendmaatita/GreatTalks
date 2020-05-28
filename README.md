@@ -4,10 +4,8 @@ Curation of great talks, tutorial, and books with various topics in software eng
 ## Agile Development
 
 #### 1. Continous Delivery
-Event: XConf 2015
-
-Presented by: Martin Fowler[https://martinfowler.com/](https://martinfowler.com/)
-
+Event: XConf 2015\
+Presented by: Martin Fowler[https://martinfowler.com/](https://martinfowler.com/)\
 [https://www.youtube.com/watch?v=aoMfbgF2D_4](https://www.youtube.com/watch?v=aoMfbgF2D_4)
 
 #### 2. Agile Essence and Fluency
