@@ -5,12 +5,12 @@ Curation of great talks, tutorial, and books with various topics in software eng
 
 #### 1. Continous Delivery
 Event: XConf 2015\
-Presented by: Martin Fowler [https://martinfowler.com/](https://martinfowler.com/)\
+Presented by: Martin Fowler ([https://martinfowler.com/](https://martinfowler.com/))\
 [https://www.youtube.com/watch?v=aoMfbgF2D_4](https://www.youtube.com/watch?v=aoMfbgF2D_4)
 
 #### 2. Agile Essence and Fluency
 Event: XConf 2015\
-Presented by: Martin Fowler [https://martinfowler.com/](https://martinfowler.com/)\
+Presented by: Martin Fowler ([https://martinfowler.com/](https://martinfowler.com/))\
 [https://www.youtube.com/watch?v=URlnxbaHhTs](https://www.youtube.com/watch?v=URlnxbaHhTs)
 
 ## Engineering Culture
@@ -23,7 +23,7 @@ Part 2: [https://www.youtube.com/watch?v=vOt4BbWLWQw](https://www.youtube.com/wa
 
 #### 2. What Makes a Good Engineering Culture 
 Event: The WeAreDevelopers World Congress 2018\
-Presented by: Natalie Korotaeva (@siberiancyborg[https://twitter.com/siberiancyborg])\
+Presented by: Natalie Korotaeva ([@siberiancyborg](https://twitter.com/siberiancyborg))\
 [https://www.youtube.com/watch?v=h1FeGzJslA8](https://www.youtube.com/watch?v=h1FeGzJslA8)
 
 
@@ -48,6 +48,21 @@ Presented by: Abed Halawi ([@mulkave](https://github.com/Mulkave))\
 Event: Laracon EU 2018\
 Presented by: Katerina Trajchevska ([@trajchevska](https://github.com/trajchevska))\
 [https://www.youtube.com/watch?v=rtmFCcjEgEw](https://www.youtube.com/watch?v=rtmFCcjEgEw)
+
+#### 3. APIs With Laravel
+Event: Laracon US 2018\
+Presented by: TJ Miller ([@sixlive](https://github.com/sixlive))\
+[https://www.youtube.com/watch?v=K0xid2vS7Oo](https://www.youtube.com/watch?v=K0xid2vS7Oo)
+
+#### 4. Event Sourcing in Laravel with EventSauce
+Event: Laracon US 2019\
+Presented by: Dries Vints ([@driesvints](https://github.com/driesvints))\
+[https://www.youtube.com/watch?v=2yos8WUG5z4](https://www.youtube.com/watch?v=2yos8WUG5z4)
+
+#### 5. Demystifying Dependency Injection Containers
+Event: Laracon EU 2019\
+Presented by: Kai Sassnowski ([@ksassnowski](https://github.com/ksassnowski))\
+[https://www.youtube.com/watch?v=y7EbrV4ChJs](https://www.youtube.com/watch?v=y7EbrV4ChJs)
 
 ## Python
 
