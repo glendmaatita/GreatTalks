@@ -47,10 +47,9 @@ https://www.youtube.com/watch?v=r_cc-JrTe38
 ## Software Architecture
 
 #### 1. Massively Scaled High Performance Web Services with PHP
-Presenter : Demin Yin
-Event : PHP UK Conference 2019
-Presented by: Abed Halawi ([@deminy](https://github.com/deminy))\
-[https://www.youtube.com/watch?v=_Yjk7EcZ2dI](https://www.youtube.com/watch?v=_Yjk7EcZ2dI)
+Event : PHP UK Conference 2019\
+Presented by: Demin Yin ([@deminy](https://github.com/deminy))\
+[https://www.youtube.com/watch?v=_Yjk7EcZ2dI](https://www.youtube.com/watch?v=_Yjk7EcZ2dI)\
 Submitted by : Ahmad Oriza ([@gemblue](https://github.com/gemblue))
 
 ## Laravel
