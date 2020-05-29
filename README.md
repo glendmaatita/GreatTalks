@@ -39,6 +39,11 @@ Event: Go Figure Podcast Episode 7\
 Presented by: Nadiem Makariem, Ajey Gore, Sidu Ponnappa\
 [https://www.youtube.com/watch?v=XTNZ5-Q2gl4](https://www.youtube.com/watch?v=XTNZ5-Q2gl4)
 
+#### 5. Why 40 Hours is Enough: Lessons from Basecamp
+Event: Lean Startup 2016\
+Presented by: Jason Fried [@jasonfried](https://twitter.com/jasonfried)\
+https://www.youtube.com/watch?v=r_cc-JrTe38
+
 ## Software Architecture
 
 ## Laravel
