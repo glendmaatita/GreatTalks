@@ -31,29 +31,29 @@ Presented by: Natalie Korotaeva ([@siberiancyborg](https://twitter.com/siberianc
 
 #### 3. GOJEK’s 10x Engineer - Truth or Myth?
 Event: Go Figure Podcast Episode 6\
-Presented by: Nadiem Makariem, Niranjan Paranjape, Sidu Ponnappa\
+Presented by: Nadiem Makarim, Niranjan Paranjape, Sidu Ponnappa\
 [https://www.youtube.com/watch?v=He0XBBfCEVk](https://www.youtube.com/watch?v=He0XBBfCEVk)
 
 #### 4. Is Bottom Up Innovation Really Possible at GOJEK?
 Event: Go Figure Podcast Episode 7\
-Presented by: Nadiem Makariem, Ajey Gore, Sidu Ponnappa\
+Presented by: Nadiem Makarim, Ajey Gore, Sidu Ponnappa\
 [https://www.youtube.com/watch?v=XTNZ5-Q2gl4](https://www.youtube.com/watch?v=XTNZ5-Q2gl4)
 
 #### 5. Why 40 Hours is Enough: Lessons from Basecamp
 Event: Lean Startup 2016\
-Presented by: Jason Fried [@jasonfried](https://twitter.com/jasonfried)\
+Presented by: Jason Fried ([@jasonfried](https://twitter.com/jasonfried))\
 [https://www.youtube.com/watch?v=r_cc-JrTe38](https://www.youtube.com/watch?v=r_cc-JrTe38)
 
 ## Engineering Leadership
 
 #### 1. Why Leaders Eat Last
 Event: 99U 2013\
-Presented by: Simon Sinek [https://simonsinek.com](https://simonsinek.com)\
+Presented by: Simon Sinek ([https://simonsinek.com](https://simonsinek.com))\
 [https://www.youtube.com/watch?v=ReRcHdeUG9Y](https://www.youtube.com/watch?v=ReRcHdeUG9Y)
 
 #### 2. The Finite and Infinite Games of Leadership
 Event: Talks at Google 2017\
-Presented by: Simon Sinek [https://simonsinek.com](https://simonsinek.com)\
+Presented by: Simon Sinek ([https://simonsinek.com](https://simonsinek.com))\
 [https://www.youtube.com/watch?v=_osKgFwKoDQ](https://www.youtube.com/watch?v=_osKgFwKoDQ)
 
 ## Software Architecture
