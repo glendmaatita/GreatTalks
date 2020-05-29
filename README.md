@@ -1,6 +1,8 @@
 # Great Talks
 Curation of great talks, tutorial, and books with various topics in software engineering
 
+Wanna add your favorite talks? Please submit an issue and put the title, presenter, event, and video links.
+
 ## Agile Development
 
 #### 1. Continous Delivery
@@ -37,6 +39,8 @@ Event: Go Figure Podcast Episode 7\
 Presented by: Nadiem Makariem, Ajey Gore, Sidu Ponnappa\
 [https://www.youtube.com/watch?v=XTNZ5-Q2gl4](https://www.youtube.com/watch?v=XTNZ5-Q2gl4)
 
+## Software Architecture
+
 ## Laravel
 
 #### 1. Lucid Architecture
@@ -64,8 +68,26 @@ Event: Laracon EU 2019\
 Presented by: Kai Sassnowski ([@ksassnowski](https://github.com/ksassnowski))\
 [https://www.youtube.com/watch?v=y7EbrV4ChJs](https://www.youtube.com/watch?v=y7EbrV4ChJs)
 
+#### 6. Introducing: Livewire
+Event: Laracon 7\
+Presented by: Caleb Porzio ([@calebporzio](https://github.com/calebporzio))\
+[https://www.youtube.com/watch?v=fX1aOWWt2nQ](https://www.youtube.com/watch?v=fX1aOWWt2nQ)
+
+
 ## Python
 
 ## Android
 
 ## Kotlin
+
+#### 1. Ktor for Mobile Developers
+Event: KotlinConf 2019\
+Presented by: Jason Taylor ([@lateplate](https://github.com/jasontaylordev))\
+[https://www.youtube.com/watch?v=SOPEc8JnFl4&t=369s](https://www.youtube.com/watch?v=SOPEc8JnFl4&t=369s)
+
+## Dotnet Core
+
+#### 1. Clean Architecture with ASP.NET Core 3.0
+Event: GOTO Copenhagen 2019\
+Presented by: Jason Taylor ([@jasontaylordev](https://github.com/jasontaylordev))\
+[https://www.youtube.com/watch?v=dK4Yb6-LxAk&t=2127s](https://www.youtube.com/watch?v=dK4Yb6-LxAk&t=2127s)
