@@ -42,7 +42,19 @@ Presented by: Nadiem Makariem, Ajey Gore, Sidu Ponnappa\
 #### 5. Why 40 Hours is Enough: Lessons from Basecamp
 Event: Lean Startup 2016\
 Presented by: Jason Fried [@jasonfried](https://twitter.com/jasonfried)\
-https://www.youtube.com/watch?v=r_cc-JrTe38
+[https://www.youtube.com/watch?v=r_cc-JrTe38](https://www.youtube.com/watch?v=r_cc-JrTe38)
+
+## Engineering Leadership
+
+#### 1. Why Leaders Eat Last
+Event: 99U 2013\
+Presented by: Simon Sinek [https://simonsinek.com](https://simonsinek.com)\
+[https://www.youtube.com/watch?v=ReRcHdeUG9Y](https://www.youtube.com/watch?v=ReRcHdeUG9Y)
+
+#### 2. The Finite and Infinite Games of Leadership
+Event: Talks at Google 2017\
+Presented by: Simon Sinek [https://simonsinek.com](https://simonsinek.com)\
+[https://www.youtube.com/watch?v=_osKgFwKoDQ](https://www.youtube.com/watch?v=_osKgFwKoDQ)
 
 ## Software Architecture
 
@@ -50,7 +62,7 @@ https://www.youtube.com/watch?v=r_cc-JrTe38
 Event: PHP UK Conference 2019\
 Presented by: Demin Yin ([@deminy](https://github.com/deminy))\
 [https://www.youtube.com/watch?v=_Yjk7EcZ2dI](https://www.youtube.com/watch?v=_Yjk7EcZ2dI)\
-Submitted by : Ahmad Oriza ([@gemblue](https://github.com/gemblue))
+Submitted by: Ahmad Oriza ([@gemblue](https://github.com/gemblue))
 
 #### 2. Why Elixir Matters: A Genealogy of Functional Programming
 Event: ElixirDaze 2018\
@@ -89,6 +101,12 @@ Event: Laracon 7\
 Presented by: Caleb Porzio ([@calebporzio](https://github.com/calebporzio))\
 [https://www.youtube.com/watch?v=fX1aOWWt2nQ](https://www.youtube.com/watch?v=fX1aOWWt2nQ)
 
+## Javascript 
+
+#### 1. 10 Things I Regret About Node.js
+Event: JSConf EU 2018\
+Presented by: Ryan Dahl ([@ry](https://github.com/ry))\
+[https://www.youtube.com/watch?v=M3BM9TB-8yA](https://www.youtube.com/watch?v=M3BM9TB-8yA)
 
 ## Python
 
