@@ -78,12 +78,21 @@ Presented by: Caleb Porzio ([@calebporzio](https://github.com/calebporzio))\
 
 ## Android
 
+## Flutter
+
 ## Kotlin
 
 #### 1. Ktor for Mobile Developers
 Event: KotlinConf 2019\
-Presented by: Jason Taylor ([@lateplate](https://github.com/jasontaylordev))\
+Presented by: Jason Taylor ([@lateplate](https://github.com/lateplate))\
 [https://www.youtube.com/watch?v=SOPEc8JnFl4&t=369s](https://www.youtube.com/watch?v=SOPEc8JnFl4&t=369s)
+
+#### 2. 10 Kotlin Tricks in 10 ish minutes
+Event: Devoxx US\
+Presented by: Jake Wharton ([@JakeWharton](https://github.com/JakeWharton))\
+[https://www.youtube.com/watch?v=0sPzDwS55wM](https://www.youtube.com/watch?v=0sPzDwS55wM)
+
+https://www.youtube.com/watch?v=0sPzDwS55wM
 
 ## Dotnet Core
 
