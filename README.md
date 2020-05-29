@@ -44,6 +44,11 @@ Event: Lean Startup 2016\
 Presented by: Jason Fried ([@jasonfried](https://twitter.com/jasonfried))\
 [https://www.youtube.com/watch?v=r_cc-JrTe38](https://www.youtube.com/watch?v=r_cc-JrTe38)
 
+#### 6. Innersource: Open Source Collaboration Patterns Beyond Public FOSS Projects
+Event: Github Satellite 2019\
+Presented by: Isabel Drost-Fromm ([http://isabel-drost.de/](http://isabel-drost.de/))\
+[https://www.youtube.com/watch?v=16gRNL8kCwA](https://www.youtube.com/watch?v=16gRNL8kCwA)
+
 ## Engineering Leadership
 
 #### 1. Why Leaders Eat Last
