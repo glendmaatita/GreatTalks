@@ -15,6 +15,11 @@ Event: XConf 2015\
 Presented by: Martin Fowler ([https://martinfowler.com/](https://martinfowler.com/))\
 [https://www.youtube.com/watch?v=URlnxbaHhTs](https://www.youtube.com/watch?v=URlnxbaHhTs)
 
+#### 3. Lean vs Agile vs Design Thinking
+Event: Software Developer Conference 2019\
+Presented by: Jeff Gothelf ([https://jeffgothelf.com/](https://jeffgothelf.com/))\
+[https://www.youtube.com/watch?v=_4VPfmtwRac](https://www.youtube.com/watch?v=_4VPfmtwRac)
+
 ## Engineering Culture
 
 #### 1. Spotify Engineering Culture
