@@ -33,7 +33,6 @@ Event: The WeAreDevelopers World Congress 2018\
 Presented by: Natalie Korotaeva ([@siberiancyborg](https://twitter.com/siberiancyborg))\
 [https://www.youtube.com/watch?v=h1FeGzJslA8](https://www.youtube.com/watch?v=h1FeGzJslA8)
 
-
 #### 3. GOJEK’s 10x Engineer - Truth or Myth?
 Event: Go Figure Podcast Episode 6\
 Presented by: Nadiem Makarim, Niranjan Paranjape, Sidu Ponnappa\
@@ -78,6 +77,13 @@ Submitted by: Ahmad Oriza ([@gemblue](https://github.com/gemblue))
 Event: ElixirDaze 2018\
 Presented by: Osayame Gaius-Obaseki ([@osagaius](https://github.com/osagaius))\
 [https://www.youtube.com/watch?v=cWAHpvkh8Vs](https://www.youtube.com/watch?v=cWAHpvkh8Vs)
+
+## Software in Business
+
+#### 1. The Lean Startup
+Event: Google Talks 2011\
+Presented by: Eric Ries ([http://theleanstartup.com/](http://theleanstartup.com/))\
+[https://www.youtube.com/watch?v=fEvKo90qBns](https://www.youtube.com/watch?v=fEvKo90qBns)
 
 ## Laravel
 
