@@ -86,7 +86,7 @@ Presented by: Martin Fowler ([https://martinfowler.com/](https://martinfowler.co
 
 #### 4. Design Microservice Architectures: The Right Way
 Event: QCon New York 2018\
-Presented by: Michael Bryzek ([@mbryzek](https://twitter.com/mbryzek))
+Presented by: Michael Bryzek ([@mbryzek](https://twitter.com/mbryzek))\
 [https://www.youtube.com/watch?v=j6ow-UemzBc](https://www.youtube.com/watch?v=j6ow-UemzBc)
 
 ## Software in Business
